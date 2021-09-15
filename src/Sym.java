@@ -5,7 +5,7 @@
  */
 public class Sym{
 
-    // Symbol type TODO: Should it be private?
+    // Symbol type 
     private String type;
 
     /**

@@ -115,7 +115,6 @@ public class SymTable{
         for(int i = 0; i < symTable.size(); i++){
             System.out.println(symTable.get(i).toString());
         }
-        //TODO: Might not need this last newline?
         System.out.println();
     }
 }
